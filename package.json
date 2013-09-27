@@ -1,0 +1,13 @@
+{
+  "name": "Dialy Notice",
+  "main": "index.html",
+  "window" : {
+        "toolbar" : false,
+        "icon" : "icon.jpg",
+        "frame": false,
+        "title" : "iNotice",
+        "position" : "center",
+        "width" : 300,
+        "height" :360
+  }
+}
