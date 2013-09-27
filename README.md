@@ -1,2 +1,3 @@
 dailyNotice
 ===========
+node-webkit
